@@ -34,7 +34,7 @@ Aplikacja ItSenior oferuje seniorom łatwy dostęp do kursów, samouczków oraz 
     <td align="center">
       <a href="https://github.com/illiaBabak">
         <img src="https://avatars.githubusercontent.com/u/72947951?v=4" width="100px;" alt="Zdjęcie użytkownika illiaBabak"/><br />
-        <sub><b>illiaBabak</b></sub>
+        <sub><b>dz1to4ka</b></sub>
       </a>
       <br />
       🐛  🚀 🎨  💻
