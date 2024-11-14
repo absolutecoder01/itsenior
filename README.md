@@ -17,3 +17,27 @@ Aplikacja ItSenior oferuje seniorom łatwy dostęp do kursów, samouczków oraz 
 - **Ćwiczenia Interaktywne** - Symulacje i ćwiczenia pozwalające na praktyczne przetestowanie zdobytej wiedzy.
 **Rejestracja na portalach społecznościowych** - Instrukcje krok po kroku, które uczą seniorów, jak założyć konto na popularnych portalach, takich jak Facebook, Instagram, TikTok i innych, oraz jak z nich bezpiecznie korzystać.
 - **Bezpieczeństwo w Sieci** - Sekcja z informacjami na temat ochrony danych i unikania zagrożeń online.
+
+## Twórcy projektu
+
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/absolutecoder01">
+        <img src="https://avatars.githubusercontent.com/u/56998201?v=4" width="100px;" alt="Zdjęcie użytkownika absolutecoder01"/><br />
+        <sub><b>absolutecoder01</b></sub>
+      </a>
+      <br />
+      🎨 📖 💻 🐛  
+    </td>
+    <td align="center">
+      <a href="https://github.com/illiaBabak">
+        <img src="https://avatars.githubusercontent.com/u/72947951?v=4" width="100px;" alt="Zdjęcie użytkownika illiaBabak"/><br />
+        <sub><b>illiaBabak</b></sub>
+      </a>
+      <br />
+      🐛  🚀 🎨  💻
+    </td>
+  </tr>
+</table>
