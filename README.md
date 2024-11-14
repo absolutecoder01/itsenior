@@ -1,4 +1,8 @@
 
+<p align="center">
+  <img src="./itsenior_logo.jpeg" alt="ItSenior Logo" width="300"/>
+</p>
+
 # ItSenior
 
 **ItSenior** to aplikacja webowa mająca na celu wspieranie seniorów w nauce obsługi nowych technologii oraz poruszaniu się po świecie cyfrowym. Projekt ten jest częścią programu społecznego, który umożliwia dziadkom i babciom naukę korzystania z Internetu, smartfonów, tabletów i komputerów w prosty i przystępny sposób.
